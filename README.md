@@ -1,0 +1,1 @@
+to run this projet we xamp server make same database and table which is written in php.php and just with inedx.html your id password wil save in that tables its just simple project for college submission
